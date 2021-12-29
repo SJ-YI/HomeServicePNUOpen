@@ -85,14 +85,6 @@ echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 echo "source ~/Desktop/TB3PNUOpen/catkin_ws/devel/setup.bash" >> ~/.bashrc
 ```
 
-### Run webots simulation for Turtlebot 3
-```
-cd ~/Desktop/TB3PNUOpen
-./start_tb3_sim_1.sh
-```
-
-Press "i","j","k","l","," keys to move the robot around (in Webots simulator)
-
 ### Run webots simulation for Turtlebot 3 Service Robot
 ```
 cd ~/Desktop/TB3PNUOpen
